@@ -1,0 +1,9 @@
+{
+  "name": "web-worker",
+  "version": "1.0.0",
+  "description": "Utility class to create synchronous and asynchronous workers",
+  "module": "index.js",
+  "type": "module",
+  "author": "Francesco Delacqua",
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+# mac OS
+.DS_Store
+# Visual Studio code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
